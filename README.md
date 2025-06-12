@@ -50,5 +50,3 @@ python "scraping tempat wisata indonesia.py"
 ## 📋 Lisensi
 
 Proyek ini menggunakan lisensi MIT.
-
-````
