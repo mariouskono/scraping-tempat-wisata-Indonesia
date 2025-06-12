@@ -52,16 +52,3 @@ python "scraping tempat wisata indonesia.py"
 Proyek ini menggunakan lisensi MIT.
 
 ````
-
----
-
-### 📦 `requirements.txt`
-
-```txt
-selenium>=4.10.0
-pandas>=2.0.0
-geopy>=2.4.0
-webdriver-manager>=4.0.0
-````
-
----
