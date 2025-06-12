@@ -1,10 +1,3 @@
-Berikut adalah isi `README.md` dan `requirements.txt` yang cocok untuk proyek Python Anda yang melakukan scraping tempat wisata di Indonesia menggunakan Google Maps dan Selenium:
-
----
-
-### 📄 `README.md`
-
-````markdown
 # Scraper Tempat Wisata Indonesia dari Google Maps 🗺️🇮🇩
 
 Skrip Python ini digunakan untuk mengumpulkan data tempat wisata dari Google Maps di seluruh provinsi dan kabupaten/kota di Indonesia. Data yang dikumpulkan meliputi nama tempat, kategori, rating, jumlah ulasan, koordinat, dan gambar.
